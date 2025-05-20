@@ -84,7 +84,7 @@ To test the reparenting functionality:
 ## 📸 Screenshots
 
 ### 🧩 Full Org Chart View
-![Full Org Chart](/assets/full-org-chart.png)
+<img width="1496" alt="full-org-chart" src="https://github.com/user-attachments/assets/798a8190-bd75-4fff-ac3e-544c31cf5627" />
 
 ---
 
