@@ -83,7 +83,8 @@ To test the reparenting functionality:
 
 ## 📸 Screenshots
 
-> Add screenshots/gifs here if needed for submission clarity.
+### 🧩 Full Org Chart View
+![Full Org Chart](/assets/full-org-chart.png)
 
 ---
 
